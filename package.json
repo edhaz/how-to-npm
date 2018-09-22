@@ -1,11 +1,22 @@
 {
-  "name": "how-to-npm",
+  "name": "@edhaz/how-to-npm",
   "version": "1.0.0",
-  "description": "",
+  "description": "How to npm!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "edhaz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edhaz/how-to-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/edhaz/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/edhaz/how-to-npm#readme"
 }
